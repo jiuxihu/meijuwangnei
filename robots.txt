@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jiuxihu.github.io/meijuwangnei/sitemap.xml
